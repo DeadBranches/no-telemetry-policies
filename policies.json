@@ -2,8 +2,7 @@
   "policies": {
     "DisableTelemetry": true,
     "DisableFirefoxStudies": true,
-    "DisablePocket": true,
-    "DisableFirefoxAccounts": true
+    "DisablePocket": true
   },
   "Preferences": {
     "browser.newtabpage.activity-stream.feeds.telemetry": {
